@@ -1,3 +1,15 @@
-class Programmer
+# Olá, eu sou Pedro França
 
+```ruby 
+class Programmer
 	def initialize() 
+```
+
+<p align="left">
+    <h3 align="left">Connect with me:</h3>
+    <a href="https://www.linkedin.com/in/pedro-fran%C3%A7a-9b1102256/" target="_blank"><img align="center" src="https://github.com/pedrofrancach/pedrofrancach/blob/master/linkedin.png?raw=true" alt="pedrofrancach" height="30" width="40" /></a>
+ 
+</p>
+
+---
+
